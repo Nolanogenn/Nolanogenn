@@ -1,6 +1,6 @@
 ## 👋 Hi all! Gennaro here
 
-PhD student @UniOr NLP (University of Naples "L'Orientale")
+PhD student in Computational Linguistics @UniOr NLP (University of Naples "L'Orientale")
 
 ### Connect with me
 - [linkedin](https://www.linkedin.com/in/gennaro-nolano)
