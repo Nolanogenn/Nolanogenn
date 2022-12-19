@@ -5,7 +5,7 @@ PhD student in Computational Linguistics @UniOr NLP (University of Naples "L'Ori
 ### Connect with me
 - [linkedin](https://www.linkedin.com/in/gennaro-nolano)
 - [personal website](https://gnolano.xyz/about/)
-- gennolano@gmail.com
+- genn@gnolano.xyz
 
 <!---
 Nolanogenn/Nolanogenn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
