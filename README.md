@@ -1,11 +1,12 @@
 ## 👋 Hi all! Gennaro here
 
-* PhD candidate in Computational Linguistics @ UniOr NLP (University of Naples "L'Orientale")
 * Data Scientist @ Mare Digital
+* PhD in Computational Linguistics @ UniOr NLP (University of Naples "L'Orientale")
 
 ### Connect with me
 - [linkedin](https://www.linkedin.com/in/gennaro-nolano)
 - [personal website](https://gnolano.xyz/about/)
+- gennaro.nolano@maredigital.it
 - genn@gnolano.xyz
 
 <!---
