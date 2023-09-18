@@ -1,6 +1,6 @@
 ## 👋 Hi all! Gennaro here
 
-* Data Scientist @ Mare Digital
+* AI Engineer @ Mare Digital
 * PhD in Computational Linguistics @ UniOr NLP (University of Naples "L'Orientale")
 
 ### Connect with me
