@@ -5,9 +5,9 @@
 
 ### Connect with me
 - [linkedin](https://www.linkedin.com/in/gennaro-nolano)
-- [personal website](https://gnolano.xyz/about/)
+<!--- [personal website](https://gnolano.xyz/about/) --->
 - gennaro.nolano@maredigital.it
-- genn@gnolano.xyz
+<!--- genn@gnolano.xyz --->
 
 <!---
 Nolanogenn/Nolanogenn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
